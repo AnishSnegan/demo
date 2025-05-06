@@ -201,7 +201,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1EbEvw.img?w=549&h=309&m=6") no-repeat center;
+    background: url("https://raw.githubusercontent.com/AnishSnegan/demo/246ea55e8161cc28b7653aac7737936123f02f1f/mygif.gif") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
